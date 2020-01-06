@@ -1,0 +1,162 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #dff6f0;
+}
+
+
+hr {
+    border-style: dotted none none;
+    border-color: gray;
+    width: 5%;
+    border-width: 5px;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #71c9ce;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #71c9ce;
+    padding: 10px;
+}
+
+.h-big {
+    font-size: 2.5rem;
+}
+
+h3, a {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top-container p {
+    font-size: 1rem;
+    color: #71c9ce;
+    font-weight: normal;
+}
+
+.top-container {
+    background-color: #111d5e;
+    position: relative;
+    padding-top: 50px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+P {
+    line-height: 2;
+}
+
+
+.bottom-container {
+    padding: 50px 0 30px 0;
+    margin: 0;
+    background-color: #66BFBF;
+}
+
+.bottom-container p {
+    color: #EAF6F6;
+    font-weight: normal;
+    font-size: 0.8rem;
+    margin: 50px 0 10px 0;
+}
+
+.bottom-container a {
+    color: #EAF6F6;
+    margin: 0 10px 0 0;
+    font-weight: bolder;
+}
+
+.btn {
+    background-color: #11999E;
+	border-radius: 4px;
+	display: inline-block;
+	cursor: pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	padding: 14px 33px;
+	text-decoration: none;
+	text-shadow:0px 1px 0px #11999E;
+    padding: 15px 30px 15px 30px;
+}
+
+
+.btn:hover {
+	background-color:#71c9ce;
+}
+.btn:active {
+	position:relative;
+	top: 1px;
+}
+
+.contact-me {
+    margin: 100px 0 100px 0;
+}
+
+.p-big {
+    margin: 50px 0 100px 0;
+}
+
+
+.h-two-big {
+    font-size: 2.5rem;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 70px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 500px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-row img {
+    width: 25%;
+}
+
+.boy-computer {
+    object-fit: cover;
+    width: 50%;
+    height: 420px;
+    margin: 0;
+}
+
+.boy-profile {
+    width: 15%;
+    border-radius: 50%;
+    background-color: #617be3;
+    margin-top: 10px;
+}
+
+.code {
+    float: left;
+    margin-right: 10px;
+}
+
+.boy-hoodie {
+    float: right;
+    background-color: #617be3;
+    border-radius: 50%;
+    margin-left: 30px;
+}
+
