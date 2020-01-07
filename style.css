@@ -14,10 +14,6 @@ hr {
     border-width: 5px;
 }
 
-.node {
-    margin-right: 15px 15px 15px 15px;
-}
-
 h1 {
     font-size: 5.625rem;
     margin: 50px auto 0 auto;
@@ -126,9 +122,7 @@ P {
     left: 300px;
     bottom: 500px;
 }
-.skills {
-    margin: 0 100px 0 0;
-}
+
 .skill-row {
     width: 50%;
     margin: 100px auto 100px auto;
